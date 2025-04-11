@@ -1,0 +1,11 @@
+questions:
+- default: null
+  description: >-
+    This policy requires settings, but UI elements are not available yet.
+    Please configure the policy settings in the YAML editor.
+  group: Settings
+  label: Description
+  required: false
+  hide_input: true
+  type: string
+  variable: description
